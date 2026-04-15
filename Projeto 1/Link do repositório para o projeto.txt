@@ -1,3 +1,6 @@
 Link do repositório para o projeto 1
 
 https://github.com/FGabrielMartins/Sistemas-inteligentes/blob/main/Projeto1SI.ipynb
+
+Membros: Francisco Gabriel Magalhães Martins
+Karllos Eduardo de Lima Costa

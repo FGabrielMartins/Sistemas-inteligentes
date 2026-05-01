@@ -1,6 +1,6 @@
 Link do repositório para o projeto 3
 
-https://github.com/FGabrielMartins/Sistemas-inteligentes/blob/main/Projeto%202%20-%20regress%C3%A3o%20logistica/Projeto2SI.ipynb
+https://github.com/FGabrielMartins/Sistemas-inteligentes/blob/main/Projeto%203%20-%20KNN/KNN%20(1).ipynb
 
 Membros: Francisco Gabriel Magalhães Martins
 Karllos Eduardo de Lima Costa

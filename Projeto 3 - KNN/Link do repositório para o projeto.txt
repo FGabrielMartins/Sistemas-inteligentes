@@ -1,4 +1,4 @@
-Link do repositório para o projeto 2
+Link do repositório para o projeto 3
 
 https://github.com/FGabrielMartins/Sistemas-inteligentes/blob/main/Projeto%202%20-%20regress%C3%A3o%20logistica/Projeto2SI.ipynb
 
